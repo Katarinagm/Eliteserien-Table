@@ -56,9 +56,9 @@ const DisplayTeamMatches = ({isOpen, onClose, participantId, teamName}: DisplayT
           <Table variant='striped' colorScheme='telegram'>
           <Thead>
             <Tr>
-              <Th>Lag</Th>
+              <Th>Hjemmelag</Th>
               <Th>Resultat</Th>
-              <Th>Motstander</Th>
+              <Th>Bortelag</Th>
             </Tr>
           </Thead>
           <Tbody>
