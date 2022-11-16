@@ -18,10 +18,10 @@ To set up the server on your own machine, you need these technologies:
 	git clone https://github.com/Katarinagm/Eliteserien-Table
    ```
 
-3. Navigate to the client folder with command:  
+3. Navigate to the folder with command:  
 
 	```
-	cd PATH_TO_PROJECT_FOLDER\Eliteserien
+	cd PATH_TO_PROJECT_FOLDER\Eliteserien-Table
 	```
 4. Install application dependencies with command:  
 
